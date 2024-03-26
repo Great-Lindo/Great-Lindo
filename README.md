@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Great-Lindo
 - 👀 I’m interested in Game, Web and Software Development
-- 🌱 I’m currently learning C#,TML,CSS,Javascript,Python and MATLAB
+- 🌱 I’m currently learning C#,HTML,CSS,Javascript,Python and MATLAB
 - 💞️ I’m looking to collaborate on a lot of stuff
 - 📫 Gmail: freddymaseko@gmail.com, facebook: Great Lindo
 - 😄 Pronouns: ...
