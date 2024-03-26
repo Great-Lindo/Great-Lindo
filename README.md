@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a lot of stuff
 - 📫 Gmail: freddymaseko@gmail.com, facebook: Great Lindo
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have a very partcular set of skills
+- ⚡ Fun fact: I have a very particular set of skills
 
 <!---
 Great-Lindo/Great-Lindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
