@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> This is my web</title>
+</head>
+<body>
+<marquee behavior="scroll" direction="left">
+<h1><b>Welcome To Lokuhle Group!!</b></h1>
+</marquee>
+<br>
+<br	
+<b>Click on the button below to enter your details.</b>
+</br>
+<br>
+<button id="button1" onclick="myFunction()">
+Click Me!!
+</br>
+</button>
+<br>
+<br>
+How may we help you?
+</br>
+<hr> <b>Click on the link below to go to google.</b>
+<a href="https://www.google.com" target=_blank>
+<br><br>Google
+</a>
+<br>
+<br>
+Don't forget to send us an email by clicking the link below.
+<br><br>
+<a href="mailto:lokuhlegroup75@gmail.com" target=_blank>
+<b>Email</b>
+</a>
+
+</body>
+</html>
